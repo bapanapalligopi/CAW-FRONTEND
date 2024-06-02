@@ -1,0 +1,223 @@
+[
+    {
+      "username": "user1",
+      "messages": [
+        "Hi there!",
+        "How are you?",
+        "What's up?",
+        "Do you want to grab some lunch later?",
+        "Sure, that sounds good!",
+        "Let's meet at the usual place.",
+        "Hello!",
+        "I'm attending a concert tonight.",
+        "That sounds like a lot of fun!",
+        "Who are you going to see?",
+        "I'm going to see my favorite band.",
+        "Hello!",
+        "I'm attending a concert tonight.",
+        "That sounds like a lot of fun!",
+        "Who are you going to see?",
+        "I'm going to see my favorite band.",
+        "Hello!",
+        "I'm attending a concert tonight.",
+        "That sounds like a lot of fun!",
+        "Who are you going to see?",
+        "I'm going to see my favorite band.",
+        "Hello!",
+        "I'm attending a concert tonight.",
+        "That sounds like a lot of fun!",
+        "Who are you going to see?",
+        "I'm going to see my favorite band."
+      ]
+    },
+    {
+      "username": "user2",
+      "messages": [
+        "Hello!",
+        "I'm good, thank you.",
+        "Just chilling.",
+        "Did you watch the latest episode of the show?",
+        "Not yet, I plan to watch it tonight."
+      ]
+    },
+    {
+      "username": "user3",
+      "messages": [
+        "Hey!",
+        "I'm busy right now.",
+        "Talk to you later.",
+        "Sure, no problem.",
+        "Take care!"
+      ]
+    },
+    {
+      "username": "user4",
+      "messages": [
+        "Hey, what's up?",
+        "Nothing much, just working on some stuff.",
+        "How about you?",
+        "I'm just relaxing at home.",
+        "Sounds nice!",
+        "Yeah, it's been a long week."
+      ]
+    },
+    {
+      "username": "user5",
+      "messages": [
+        "Hi!",
+        "I'm excited about the trip next week.",
+        "Me too! It's going to be so much fun.",
+        "Have you packed your bags yet?",
+        "Not yet, but I'll do it this weekend."
+      ]
+    },
+    {
+      "username": "user6",
+      "messages": [
+        "Hey there!",
+        "I'm feeling a bit tired today.",
+        "Maybe I should take a nap.",
+        "That sounds like a good idea.",
+        "I'll join you!"
+      ]
+    },
+    {
+      "username": "user7",
+      "messages": [
+        "Yo!",
+        "How's your day going?",
+        "It's going pretty well, thanks for asking.",
+        "What about you?",
+        "I'm having a great day too!"
+      ]
+    },
+    {
+      "username": "user8",
+      "messages": [
+        "Hey!",
+        "I'm working on a new project.",
+        "It's keeping me busy.",
+        "That's exciting!",
+        "Let me know if you need any help."
+      ]
+    },
+    {
+      "username": "user9",
+      "messages": [
+        "Hello!",
+        "I'm enjoying the weather today.",
+        "It's perfect for a walk outside.",
+        "I agree, I might go for a run later.",
+        "That sounds like a great idea!"
+      ]
+    },
+    {
+      "username": "user10",
+      "messages": [
+        "Hi there!",
+        "I'm trying out a new recipe for dinner.",
+        "It smells delicious!",
+        "I wish I could taste it!",
+        "Next time, I'll save some for you."
+      ]
+    },
+    {
+      "username": "user11",
+      "messages": [
+        "Hey!",
+        "I just finished watching a movie.",
+        "It was really good!",
+        "What movie did you watch?",
+        "I watched the latest action flick."
+      ]
+    },
+    {
+      "username": "user12",
+      "messages": [
+        "Hello!",
+        "I'm feeling a bit under the weather today.",
+        "I think I caught a cold.",
+        "Make sure to rest and drink plenty of fluids.",
+        "Thanks, I'll do that."
+      ]
+    },
+    {
+      "username": "user13",
+      "messages": [
+        "Hey there!",
+        "I'm going shopping later.",
+        "Do you need anything?",
+        "Actually, I do. Can you pick up some milk for me?",
+        "Sure thing, I'll add it to my list."
+      ]
+    },
+    {
+      "username": "user14",
+      "messages": [
+        "Hi!",
+        "I'm planning a trip for next month.",
+        "That sounds exciting!",
+        "Where are you thinking of going?",
+        "I'm thinking of visiting the mountains."
+      ]
+    },
+    {
+      "username": "user15",
+      "messages": [
+        "Hello!",
+        "I'm having a lazy day today.",
+        "Sometimes, you just need a break.",
+        "Exactly, it's important to recharge."
+      ]
+    },
+    {
+      "username": "user16",
+      "messages": [
+        "Hey!",
+        "I'm learning a new language.",
+        "That's impressive!",
+        "Which language are you learning?",
+        "I'm learning Spanish."
+      ]
+    },
+    {
+      "username": "user17",
+      "messages": [
+        "Hi there!",
+        "I'm working on a DIY project.",
+        "That sounds fun!",
+        "What are you making?",
+        "I'm building a bookshelf."
+      ]
+    },
+    {
+      "username": "user18",
+      "messages": [
+        "Hey!",
+        "I just got back from a run.",
+        "It feels great to exercise.",
+        "I agree, it's good for both body and mind."
+      ]
+    },
+    {
+      "username": "user19",
+      "messages": [
+        "Hello!",
+        "I'm attending a concert tonight.",
+        "That sounds like a lot of fun!",
+        "Who are you going to see?",
+        "I'm going to see my favorite band."
+      ]
+    },
+    {
+      "username": "user20",
+      "messages": [
+        "Hey there!",
+        "I'm planning a barbecue for the weekend.",
+        "That sounds delicious!",
+        "Can I come over?",
+        "Of course, the more the merrier!"
+      ]
+    }
+  ]
+  

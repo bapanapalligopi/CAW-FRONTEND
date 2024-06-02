@@ -1,0 +1,81 @@
+[
+    {
+      "sender": "bapanapalligopi7777@gmail.com",
+      "receiver": "bapanapalligopi1@gmail.com",
+      "message": "Hello, how are you? 1",
+      "timestamp": "2024-05-06T12:00:00Z"
+    },
+    {
+      "sender": "bapanapalligopi7@gmail.com",
+      "receiver": "bapanapalligopi7777@gmail.com",
+      "message": "Hello, how are you? 6",
+      "timestamp": "2023-05-06T12:05:00Z"
+    },
+    {
+      "sender": "bapanapalligopi7777@gmail.com",
+      "receiver": "bapanapalligopi7@gmail.com",
+      "message": "Hello, how are you? 2",
+      "timestamp": "2024-05-06T11:10:00Z"
+    },
+    {
+      "sender": "bapanapalligopi7@gmail.com",
+      "receiver": "bapanapalligopi7777@gmail.com",
+      "message": "Hello, how are you? 7",
+      "timestamp": "2024-05-06T12:15:00Z"
+    },
+    {
+      "sender": "bapanapalligopi7777@gmail.com",
+      "receiver": "bapanapalligopi1@gmail.com",
+      "message": "Hello, how are you? 3",
+      "timestamp": "2024-05-06T12:20:00Z"
+    },
+    {
+      "sender": "bapanapalligopi7777@gmail.com",
+      "receiver": "bapanapalligopi7@gmail.com",
+      "message": "Hello, how are you? 4",
+      "timestamp": "2024-05-06T12:25:00Z"
+    },
+    {
+      "sender": "bapanapalligopi7777@gmail.com",
+      "receiver": "bapanapalligopi1@gmail.com",
+      "message": "Hello, how are you? 5",
+      "timestamp": "2024-05-06T12:30:00Z"
+    },
+    {
+      "sender": "bapanapalligopi7@gmail.com",
+      "receiver": "bapanapalligopi7777@gmail.com",
+      "message": "Hello, how are you? 8",
+      "timestamp": "2024-05-06T12:35:00Z"
+    },
+    {
+      "sender": "bapanapalligopi7777@gmail.com",
+      "receiver": "bapanapalligopi1@gmail.com",
+      "message": "Hello, how are you?10",
+      "timestamp": "2024-05-06T12:40:00Z"
+    },
+    {
+      "sender": "bapanapalligopi1@gmail.com",
+      "receiver": "bapanapalligopi7@gmail.com",
+      "message": "Hello, how are you? 11",
+      "timestamp": "2024-05-06T12:45:00Z"
+    },
+    {
+      "sender": "bapanapalligopi7777@gmail.com",
+      "receiver": "bapanapalligopi1@gmail.com",
+      "message": "Hello, how are you? 22",
+      "timestamp": "2024-05-06T12:50:00Z"
+    },
+    {
+      "sender": "bapanapalligopi7777@gmail.com",
+      "receiver": "bapanapalligopi1@gmail.com",
+      "message": "Hello, how are you? 33",
+      "timestamp": "2024-05-06T12:55:00Z"
+    },
+    {
+      "sender": "bapanapalligopi1@gmail.com",
+      "receiver": "bapanapalligopi7777@gmail.com",
+      "message": "Hello, how are you? 8",
+      "timestamp": "2024-05-06T13:00:00Z"
+    }
+  ]
+  
